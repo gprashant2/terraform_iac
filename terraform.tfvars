@@ -1,6 +1,6 @@
 region          = "us-central1"
 gcp_zone        = "us-central1-a"
-gcp_project     = "keen-topic-375206"
+gcp_project     = "publicismedia-cortex-216901"
 credentials     = "sa.json"
 name            = "dev"
 subnet_cidr     = "10.128.0.0/20"
