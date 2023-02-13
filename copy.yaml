@@ -1,0 +1,9 @@
+---
+- hosts: all
+  gather_facts: no
+ 
+  tasks:
+  - name: ansible copy file from remote to local.
+    fetch:
+     src: /root/devops/target.txt
+     dest: /root/jboss/
