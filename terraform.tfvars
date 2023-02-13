@@ -1,7 +1,6 @@
 region          = "us-central1"
 gcp_zone        = "us-central1-a"
 gcp_project     = "publicismedia-cortex-216901"
-credentials     = "sa.json"
 name            = "dev"
 subnet_cidr     = "10.128.0.0/20"
 app_name        = "dev"
